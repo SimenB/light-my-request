@@ -20,7 +20,7 @@
     "form-auto-content": "^3.0.0",
     "form-data": "^4.0.0",
     "standard": "^17.0.0",
-    "tap": "^16.0.0",
+    "tap": "^20.0.3",
     "tsd": "^0.31.0"
   },
   "scripts": {
