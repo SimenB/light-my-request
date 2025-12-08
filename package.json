@@ -21,7 +21,7 @@
     "formdata-node": "^6.0.3",
     "standard": "^17.1.0",
     "tap": "^21.0.0",
-    "tinybench": "^5.0.0",
+    "tinybench": "^6.0.0",
     "tsd": "^0.33.0",
     "undici": "^7.0.0"
   },
